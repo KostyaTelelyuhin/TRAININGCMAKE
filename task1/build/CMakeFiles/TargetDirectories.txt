@@ -1,0 +1,3 @@
+/Users/forcs2/Downloads/task/task1/build/CMakeFiles/Execut.dir
+/Users/forcs2/Downloads/task/task1/build/CMakeFiles/edit_cache.dir
+/Users/forcs2/Downloads/task/task1/build/CMakeFiles/rebuild_cache.dir
